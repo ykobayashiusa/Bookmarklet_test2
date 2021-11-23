@@ -1,1 +1,1 @@
-javascript:alert(Math.pow(4,5));
+javascript:alert(Math.pow(4,6));
